@@ -1,7 +1,7 @@
 ## Diagramas Utilizados
 ### Diagrama de Classes
-https://www.draw.io/#G1ObNedxCPKKNcBrssl8HleJoQdcqduS28
+https://drive.google.com/file/d/1ObNedxCPKKNcBrssl8HleJoQdcqduS28/view?usp=sharing
 
 ### Diagrama de Atividade
-https://www.draw.io/#G1NuhSnWUZV8osyDR76EBKQIkefC8-d9Y3
+https://drive.google.com/file/d/1NuhSnWUZV8osyDR76EBKQIkefC8-d9Y3/view?usp=sharing
 
